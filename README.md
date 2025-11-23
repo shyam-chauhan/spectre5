@@ -25,6 +25,7 @@
 
 ---
 ## SPECTRE 9 Preview
+<img width="1920" height="1014" alt="{DCB9374D-34AD-4DD5-A942-164C2C74ABD0}" src="https://github.com/user-attachments/assets/5fd69535-8dcf-4eb9-ab51-22c36563f23f" />
 
 
 
@@ -39,6 +40,7 @@
 * **Visual Reporting:** Color-coded results based on threat severity.
 
 ## SPECTRE 5 Look
+<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/97f86820-b0a7-4615-8712-4150c1376d4a" />
 
 
 
