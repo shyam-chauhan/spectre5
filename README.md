@@ -25,7 +25,7 @@
 
 ---
 ## SPECTRE 9 Preview
-<img width="1920" height="1014" alt="image" src="https://github.com/user-attachments/assets/3f17248c-ea88-4704-bee9-7cbaae6d1b15" />
+
 
 
 ## 🛡️ Spectre 5 Features
@@ -39,7 +39,7 @@
 * **Visual Reporting:** Color-coded results based on threat severity.
 
 ## SPECTRE 5 Look
-<img width="1920" height="1016" alt="{EA15640F-B95C-4F2A-8A9D-A25EDD52F81D}" src="https://github.com/user-attachments/assets/4c6ccae6-36ee-4a71-a24a-158c602947e0" />
+
 
 
 ## 🛠️ Installation
@@ -62,7 +62,7 @@
 
 1.  Run the application:
     ```bash
-    python dist/spectre5.py
+    python3 dist/spectre5.py
     ```
 2.  **Select Target:** Click **Browse** to select a file or folder to scan.
 3.  **Scan:** Click **MINE SECRETS** to begin the thread-based scan.
