@@ -47,15 +47,25 @@
 ## 🛠️ Installation
 
 1.  **Prerequisites:**
-    * Python 3.8 or higher.
-
-2.  **Install Dependencies:**
+    * Python 3.13.9
+2.  **Creating virual environment**
+    Open your terminal/command prompt and run:
+    ```bash
+    Python3 -m venv venv
+    source venv/bin/activate
+    ```
+3.  **Install Dependencies:**
     Open your terminal/command prompt and run:
     ```bash
     pip install -r requirements.txt
     ```
 
-3.  **Asset Setup:**
+4.  **Install Dependencies:**
+    Open your terminal/command prompt and run:
+    ```bash
+    pyarmor gen runtime
+    ```
+5.  **Asset Setup:**
     For the full visual experience, ensure the following files are in the script directory:
     * `spectre.png` (Background image)
     * `spectre.ico` (Window icon)
